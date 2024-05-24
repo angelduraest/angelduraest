@@ -2,7 +2,7 @@
 
 Meu nome é Angélica 🌟
 
--Estou estudando na Alura
+-Estou estudando na [Alura](https://www.alura.com.br)
 
 -Estou me desenvolvendo na lnguagem JavaScript
 
@@ -14,4 +14,4 @@ Meu nome é Angélica 🌟
 
 @angelicaduraest
 
-![](https://tenor.com/pt-BR/view/cat-kiss-gif-13364104941228571438)
+![](https://media.tenor.com/Z5x6xrH6_AQAAAAM/cat-kissing.gif)
