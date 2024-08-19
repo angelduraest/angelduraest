@@ -4,7 +4,7 @@ Meu nome é Angélica 🌟
 
 -Estou estudando na [Alura](https://www.alura.com.br)
 
--Estou me desenvolvendo na lnguagem JavaScript
+-Estou me desenvolvendo na linguagem JavaScript
 
 -Utilizo esse espaço para minha organização e compartilhamento do meus projetos desenvolvidos
 
